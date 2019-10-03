@@ -18,7 +18,7 @@ The character in this game has to avoid traps and enemies in order to make it ou
 
 ## V. Aesthetics
 
-The graphics style will be simple pixel art with a limited color palette. There will be 8-bit sounds for taking damage and for dealing damage. The UI may also have sound if there is time to implement that.
+The graphics style will be simple pixel art with a limited color palette. There will be 8-bit sounds for taking damage and for dealing damage. The UI may also have sound if there is time to implement that. The style will hopefully be a spooky theme, in celebration of the fall season.
 
 ## VI. Gameplay
 
