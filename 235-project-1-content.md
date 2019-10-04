@@ -25,6 +25,7 @@ The graphics style will be simple pixel art with a limited color palette. There 
 The player can move in one of four directions, and the enemies only move when they do. They have to find the best way to the exit by fighting enemies and avoiding traps, or die trying.
 
 ## VII. Screenshots
+![concept art showing the player, an enemy, a trap, and the exit](screenshot.png)
 
 ## VIII. Developer
 
